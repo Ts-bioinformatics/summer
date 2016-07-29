@@ -1,3 +1,3 @@
 # summer
-Simple start of bioinformatics
+Simple starting of bioinformatics
 ChIP-seq
